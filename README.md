@@ -24,5 +24,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
- Visit [here](http://127.0.0.1:5000).
+You can visit [http://127.0.0.1:5000](http://127.0.0.1:5000) to view this application once you start the Python Flask server.
