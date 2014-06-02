@@ -1,6 +1,6 @@
 ### PinCat
 
-**PinCat is a Pinterest Clone written in Pythn Flask and Angular.JS that retrives images of Kitten.**
+**PinCat is a Pinterest Clone written in Python Flask and Angular.JS that retrives images of Kitten.**
 
 
 #### Requirements
